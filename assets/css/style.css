@@ -209,7 +209,9 @@ transition: all 0.35s ease 0s;
     background: #fff none repeat scroll 0 0;
     color: #000;
     float: left;
-    padding: 0 0px 22px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
     text-align: center;
     width: 100%;
 }
