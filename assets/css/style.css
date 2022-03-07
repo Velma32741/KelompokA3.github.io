@@ -556,7 +556,9 @@ padding:10px;
 }
 /*----------- gallery ------------*/
 #Gallery {
-    padding: 150px 0 0;
+    color: #fff;
+    background-color: #333;
+    padding-top: 50px;
 	overflow:hidden;
 }
 #controls ul li {
